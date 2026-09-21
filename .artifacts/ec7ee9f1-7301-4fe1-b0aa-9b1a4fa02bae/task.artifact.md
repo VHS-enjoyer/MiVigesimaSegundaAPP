@@ -1,0 +1,3 @@
+- [x] Fix compilation errors in `ActividadControladora.java` by replacing `posicionAngular` with `mover`
+- [x] Fix unused increment warning in `ActividadControladora.java`
+- [x] Verify fix by building the project
